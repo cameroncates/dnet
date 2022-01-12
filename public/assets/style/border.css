@@ -1,0 +1,16 @@
+.border { border: 1px solid rgba(201, 201, 201, 1) !important;}
+.border__light { border: 1px solid #C9C9C9 !important;}
+.border__grey { border: 1px solid #939293 !important;}
+.border-right__grey { border-right: 1px solid #434445 !important; }
+.border-left__grey { border-left: 1px solid #434445 !important; }
+.border-radius__5 { border-radius: 5px !important; }
+.border-radius__6 { border-radius: 6px !important; }
+.border-radius__7 { border-radius: 7px !important; }
+.border-radius__8 { border-radius: 8px !important; }
+.border-radius__9 { border-radius: 9px !important; }
+.border-radius__10 { border-radius: 10px !important; }
+.border-radius__12 { border-radius: 12px !important; }
+.border-radius__13 { border-radius: 13px !important; }
+.border-radius__24 { border-radius: 24px !important; }
+.border-radius__35 { border-radius: 35px !important; }
+.border__transparent { border: transparent !important;}

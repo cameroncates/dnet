@@ -1,0 +1,9 @@
+.btn { border-radius: 0px !important;}
+.btn:active, .btn:focus { outline: none !important; box-shadow: none !important; }
+.btn__green { background-color: #6E7D45 !important; color: white !important;}
+.btn__white { background-color: white !important; color: black !important;}
+
+/* CIRCLE BUTTON */
+.btn__icon { width: 50px !important; height: 50px !important; border-radius: 35px !important; }
+.btn__icon__sm { width: 25px !important; height: 25px !important; border-radius: 35px !important; padding: 0px; }
+.btn__rounded { border-radius: 35px !important; padding: 10px 30px; }

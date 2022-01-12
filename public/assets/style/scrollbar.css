@@ -1,0 +1,20 @@
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 5px;
+}
+ 
+::-webkit-scrollbar-track {
+    background-color: #ebebeb;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background:rgba(0, 0, 0, 0.15); 
+}
+.scrollbar__transparent::-webkit-scrollbar-track,
+.scrollbar__transparent::-webkit-scrollbar-thumb { background-color: transparent; }
+.scrollbar__sm::-webkit-scrollbar { width: 5px !important; height: 5px !important; }
