@@ -7,3 +7,18 @@
 .btn__icon { width: 50px !important; height: 50px !important; border-radius: 35px !important; }
 .btn__icon__sm { width: 25px !important; height: 25px !important; border-radius: 35px !important; padding: 0px; }
 .btn__rounded { border-radius: 35px !important; padding: 10px 30px; }
+
+
+/* UPLOAD BUTTON WRAPPER */
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+.upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}

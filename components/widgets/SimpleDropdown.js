@@ -7,7 +7,9 @@ export default function SimpleDropdown(props) {
             {list && list.map((item, i) => (
                 <button 
                     key={i} 
-                    className={"btn btn-block bg-transparent font-roboto-light my-0 py__10px " + item.className} href="#">{item.title}</button>
+                    className={"btn btn-block bg-transparent font-roboto-light my-0 py__8px " + item.className} href="#">
+                        <span className="small">{item.title}</span>
+                    </button>
             ))}
         </div>
     )

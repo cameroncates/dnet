@@ -24,7 +24,7 @@ export default function navbar() {
                                 <input style={{borderRadius: "0px 35px 35px 0px"}} type="text" className="placeholder__white form-control border-0 bg-transparent text-white" placeholder="Search" aria-label="Username" aria-describedby="basic-addon1" />
                             </div>                        
 
-                            <button type="button" className="btn bg-white box-shadow__dark font-roboto-regular btn__rounded mr-4">
+                            <button type="button" data-toggle="modal" data-target="#create__post__step1"  className="btn bg-white box-shadow__dark font-roboto-regular btn__rounded mr-4">
                                 Create Post
                             </button>     
                             <button type="button" className="btn bg-white btn__icon box-shadow__dark">

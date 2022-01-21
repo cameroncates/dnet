@@ -16,5 +16,7 @@
 /* Gradients */
 .bg__bluesky__gradient { background: linear-gradient(270deg, #00C3BA 0%, #009EE9 68.1%, #009EE9 100%) !important;}
 .bg__bluesky__gradient2 { background: linear-gradient(0deg, #009EE9 0%, #009EE9 31.03%, #00C3BA 108.33%) !important;}
+.bg__bluesky__gradient3 { background: linear-gradient(180deg, #00C3BA 0%, #009EE9 67.71%, #009EE9 100%); }
 .bg__blueaqua__gradient { background: linear-gradient(0.27deg, #009EE9 0.23%, #009EE9 43.48%, #00C3BA 95.69%) !important; }
 .bg__aquawhite__gradient { background: linear-gradient(0deg, rgba(0, 158, 233, 0) 0%, rgba(0, 158, 233, 0) 30.19%, rgba(0, 164, 226, 0.2762) 49.47%, rgba(0, 179, 206, 0.6791) 77.6%, #00C3BA 100%); }
+.bg__darklight__gradient { background: linear-gradient(1.36deg, rgba(0, 0, 0, 0.75) 4.13%, rgba(0, 158, 233, 0.05) 98.59%) !important; }

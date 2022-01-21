@@ -6,6 +6,7 @@ import Footer from './partials/footer'
 import Sidebar from './partials/sidebar'
 import UserHighlights from '../sliders/UserHighlights'
 import SimpleSelectOption from '../widgets/SimpleSelectOption'
+import CreatePost from '../modals/CreatePost'
 
 export default function Layout2({ children }) {
 
@@ -21,6 +22,7 @@ export default function Layout2({ children }) {
     return (
         <>
             <Navbar />
+            <CreatePost />
                 <div className="container px-0">
                     <div className="row mx-0">
                         <div className="col-lg-4 px-0 mb-5">

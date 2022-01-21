@@ -112,9 +112,7 @@ export default function NewMessageModal() {
                                     </div>
                                 </div>
                             ))}
-                        </form>
-
-                        
+                        </form>                        
                     </div>
                 </div>
             </div>

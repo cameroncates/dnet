@@ -29,6 +29,10 @@ import  '../public/assets/style/checkbox.css'
 import  '../public/assets/style/cursor.css'
 import  '../public/assets/style/transition.css'
 import  '../public/assets/style/zindex.css'
+import  '../public/assets/style/mediaqueries/lg-queries.css'
+import  '../public/assets/style/toggle-switch.css'
+import  '../public/assets/style/resize.css'
+
 
 
 const layouts = {
