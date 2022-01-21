@@ -25,6 +25,7 @@
     border-radius: 100%;
     background: transparent;
 }
+
 [type="checkbox"]:checked + label:before {
     border: 1px solid #009EE9;
 }
